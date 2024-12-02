@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\CamaraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CamaraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\EnemyFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\MeleeEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\MeleeEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\FireTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\FireTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\Enemy_Sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\Enemy_Sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\HealthCollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health\\HealthCollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 107,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:55:29.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:06:35.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Player\\PlayerAttack.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:21:58.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:02:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\MeleeEnemy.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:21:54.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FireTrap.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\FireTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\FireTrap.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\FireTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\FireTrap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:34:41.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:12:05.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy_Sideways.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy_Sideways.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:10:37.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CamaraController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\CamaraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CamaraController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\CamaraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CamaraController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:02:51.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyFood.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\EnemyFood.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFood.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\EnemyFood.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFood.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:21:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthCollectible.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\HealthCollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\HealthCollectible.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\HealthCollectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\HealthCollectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:27:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Door.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Door.cs",
+              "RelativeToolTip": "Assets\\Door.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:11:35.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Projectile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Projectile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:14:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SEXTO SEMESTRE\\VIDEOJUEGOS\\avance-proyecto-pz-js\\koda-adventures-v1\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:06:26.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
